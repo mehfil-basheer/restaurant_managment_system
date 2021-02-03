@@ -1,0 +1,15 @@
+.img-category {
+    max-width: 100%;
+}
+
+.dataTables_filter {
+    float: right !important;
+}
+
+.paging_simple_numbers {
+    float: right !important;
+}
+
+.select2-selection {
+    padding: 3px;
+}
